@@ -1,5 +1,7 @@
 using LinearAlgebra
 
+# Ajout d'un commentaire inutile.
+
 A = [1.0 2.0 3.0;
     2.0 -5.0 3.0
     3.0 3.5 -4.0]
