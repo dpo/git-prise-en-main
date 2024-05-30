@@ -1,3 +1,7 @@
+# MTH8211 Labo 1
+# Jean-Marie Villaire
+# 2024-05-30 
+
 using LinearAlgebra
 
 n = 3
@@ -9,7 +13,8 @@ b = ones(n)
 # résoudre Ax = b
 
 ### votre code ici ; ne rien modifier d'autre
-x = rand(n)
+#x = rand(n)
+x = A \ b
 ###
 
 # vérification
