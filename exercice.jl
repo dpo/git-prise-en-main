@@ -10,7 +10,7 @@ A = [1.0 2.0 3.0;
     3.0 3.5 -4.0]
 b = ones(n)
 
-### votre code ici ; ne rien modifier d'autre
+# résoudre Ax = b
 x = A \ b
 
 # vérification
