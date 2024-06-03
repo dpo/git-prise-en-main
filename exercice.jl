@@ -9,7 +9,8 @@ b = ones(n)
 # résoudre Ax = b
 
 ### votre code ici ; ne rien modifier d'autre
-x = rand(n)
+## x = rand(n)
+x = A \ b
 ###
 
 # vérification
