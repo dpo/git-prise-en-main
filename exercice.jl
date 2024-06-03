@@ -1,4 +1,4 @@
-using LinearAlgebra
+Xusing LinearAlgebra
 
 A = [1.0 2.0 3.0;
     2.0 -5.0 3.0
@@ -8,7 +8,7 @@ b = ones(3)
 # 1) résoudre Ax = b 
 
 ### votre code ici
-# x = ...
+x=A\b
 ###
 
 # vérification
